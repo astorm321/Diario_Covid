@@ -1,0 +1,2 @@
+rootProject.name='Diario_Covid'
+include ':app'
